@@ -24,7 +24,7 @@ Petit projet sur la base de données (image, coord marqueurs du visage) pour cla
 
 1. data.csv
 - Le .csv comprend les coords y, x des différent marqueurs du viasge (coin sup/inf gauche/droit oeil, pointe du nez, etc ...) + image (sous forme de chaine de caractère pour sauvegarder de l'espace)
-- ![Résultats](https://github.com/Soren-Kierkegaard/Emotion-Detection/img.png)
+- ![Résultats](https://github.com/Soren-Kierkegaard/Emotion-Detection/blob/main/img.png)
 
 2. icml_face_data.csv'
 - Contient des images (aussi sous forme de chaine) associées à leur label respectif, labels = {0 : 'colere', 1 : 'degout', 2 : 'triste', 3 : 'joie', 4 : 'surprise'}
@@ -42,7 +42,7 @@ Petit projet sur la base de données (image, coord marqueurs du visage) pour cla
 
 *On peut faire mieux avec un peu plus d'entrainement et équilibrant les données
 
-![Résultats](https://github.com/Soren-Kierkegaard/Emotion-Detection/res1.png)
+![Résultats](https://github.com/Soren-Kierkegaard/Emotion-Detection/blob/main/res1.png)
 
 # Petit Plus [ Juin 2021 ]
 
